@@ -1,0 +1,20 @@
+{
+  "name": "p1",
+  "version": "0.0.0",
+  "description": "Extremely simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treuna/Simple-web-server.git"
+  },
+  "author": "Teemu Reuna",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/treuna/Simple-web-server/issues"
+  },
+  "homepage": "https://github.com/treuna/Simple-web-server"
+}
